@@ -1,0 +1,21 @@
+{
+  "Name": "Lite Pixel Blood V4.0",
+  "Author": "Gander18",
+  "Description": "The Ultimate Lightweight Pixel Blood Overhaul: Now with In-Game Menu Customization",
+  "ModVersion": "4.0",
+  "GameVersion": "1.27+",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "PixelBloodMod.ModInvoker",
+  "Tags": [
+    "Fun",
+    "Realistic",
+    "Performance"
+  ],
+  "Scripts": [
+    "ModInvoker.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": "3736146267",
+  "CreatorUGCIdentity": "3736146267",
+  "AssemblyName": null
+}
