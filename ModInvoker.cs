@@ -8,7 +8,6 @@ namespace PixelBloodMod
     public static class ModInvoker
     {
         private static Type _EntryPointType;
-        private const System.Reflection.BindingFlags _INVOKE_METHOD_FLAG = System.Reflection.BindingFlags.InvokeMethod;
 
         public static void OnLoad()
         {
